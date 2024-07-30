@@ -43,14 +43,18 @@ VisualStudio2022とかで開けるはずです。
 ## 動作確認済み環境
 
 EasyDialog.exe
-- Windows7-32&64bit
-- Windows10-64bit
-- Windows11-64bit
+- Windows7  -32&64bit
+- Windows8  -64bit
+- Windows8.1-64bit
+- Windows10 -64bit
+- Windows11 -64bit
 
 EasyDialog-forLegacyOS.exe
-- Windows7-32&64bit
-- Windows10-64bit
-- Windows11-64bit
+- Windows7  -32&64bit
+- Windows8  -64bit
+- Windows8.1-64bit
+- Windows10 -64bit
+- Windows11 -64bit
 
 ## 使い道 
 自分で考えましょう。
