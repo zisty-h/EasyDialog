@@ -32,6 +32,11 @@ Windowsダイアログを簡単に表示してくれるアプリです。
 
 なお、後者のサポートは切れているので気をつけてください。
 
+### 2024/09/06追記
+EasyDialogForAfterWin10を追加しました。
+
+Windows10以降を対象としており、ダークモードに対応しています。
+
 ## 中身(ソース)
 
 一部のソースを公開しています。
@@ -39,6 +44,11 @@ Windowsダイアログを簡単に表示してくれるアプリです。
 VisualStudio2022とかで開けるはずです。
 
 まあ適当に活用してください(?)
+
+### 2024/09/06追記
+EasyDialogForAfterWin10のソースは
+
+Main.cs以外はEasyDialogと同じです。
 
 ## 動作確認済み環境
 
@@ -53,6 +63,12 @@ EasyDialog-forLegacyOS.exe
 - Windows7  -32&64bit
 - Windows8  -64bit
 - Windows8.1-64bit
+- Windows10 -64bit
+- Windows11 -64bit
+
+### 2024/09/06追記
+
+EasyDialogForAfterWin10.exe
 - Windows10 -64bit
 - Windows11 -64bit
 
